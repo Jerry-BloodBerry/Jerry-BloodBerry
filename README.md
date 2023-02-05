@@ -1,9 +1,9 @@
 ### Hi, I am Jacob aka [Jerry-BloodBerry] 👋
 
-## I am an aspiring full-stack web developer!
+## I am a Full-stack Web Developer
 - 💻 I am currently working with PHP (Symfony framework) and React library
-- 🎓 I am actively learning by coding my own projects
-- 🎹 In my free time I love to play piano! 
+- 🎓 I am always open to learning new technologies by coding my own projects in various technologies
+- 🎹 One of my favorite free-time activities is plaing the piano
 
 ### Connect with me
 [<img align="left" alt="Jerry-BloodBerry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
