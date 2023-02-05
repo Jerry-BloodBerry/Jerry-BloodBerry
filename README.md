@@ -2,7 +2,7 @@
 
 ## I am a Full-stack Web Developer
 - 💻 I am currently working with PHP (Symfony framework) and React library
-- 🎓 I am always open to learning new technologies by coding my own projects in various technologies
+- 🎓 I am always open to learning new stuff by coding my own projects in various technologies
 - 🎹 One of my favorite free-time activities is plaing the piano
 
 ### Connect with me
