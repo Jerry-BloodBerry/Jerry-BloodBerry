@@ -1,7 +1,7 @@
 ### Hi, I am Jacob aka [Jerry-BloodBerry] 👋
 
 ## I am a Full-stack Web Developer
-- 💻 I am currently working with PHP (Symfony framework) and React library
+- 💻 I am currently working with .NET Core, Java, PHP (Symfony framework) and React
 - 🎓 I am always open to learning new stuff by coding my own projects in various technologies
 - 🎹 One of my favorite free-time activities is plaing the piano
 
