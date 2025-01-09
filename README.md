@@ -1,4 +1,4 @@
-### Hi, I am Jacob aka [Jerry-BloodBerry] 👋
+### Hi, I am Jakub 👋
 
 ## I am a Full-stack Web Developer
 - 💻 I am currently working with .NET Core, Java, PHP (Symfony framework) and React
@@ -29,10 +29,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
-### GitHub stats
-
-<img align="left" alt="Jerry-BloodBerry's github stats" src="https://github-readme-stats.vercel.app/api?username=Jerry-BloodBerry&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/jakub-%C4%87wikowski-8057a4184/
 [Jerry-BloodBerry]: https://github.com/Jerry-BloodBerry
